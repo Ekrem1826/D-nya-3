@@ -1,0 +1,6 @@
+{
+  "name": "Dünya Kupası: Fiske Futbol",
+  "description": "3 dakikalık taktiksel maçlar, 6 farklı mevki özelliği ve gerçekçi fiziklerle Dünya Kupası fiske futbol oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
